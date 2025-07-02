@@ -66,7 +66,7 @@ A web-based Human Resource Management System (HRMS) built using PHP (likely with
 
 ### 🔐 Login Page
 Simple and secure login interface for staff and admin.
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/loginpage.png)
 
 ---
 
